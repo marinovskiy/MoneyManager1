@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "369894817321",
+    "firebase_url": "https://moneymanager-dbcc7.firebaseio.com",
+    "project_id": "moneymanager-dbcc7",
+    "storage_bucket": "moneymanager-dbcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369894817321:android:0ee50a6ba8f33611",
+        "android_client_info": {
+          "package_name": "com.example.alex.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369894817321-q8vnsk0i51pjpint5rg4j7bnk3ddm33c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9VINv4U81urBo6_SGB54saN9noN8SmRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
